@@ -1,0 +1,9 @@
+.sub-item-link{
+  text-decoration:none;
+}
+a:link{color:purple;text-decoration:none}
+a:visited{color:black;}
+a:hover{color:maroon}
+body{background-color:pink;}
+a:focus{color:red;outline: 2px solid black;}
+a:active{color:maroon;}
